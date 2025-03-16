@@ -206,9 +206,9 @@ const templateConfig: TemplateConfig = {
       ],
     },
     header: {
-      headline: "Your Ultimate App for Every Need",
+      headline: "Oasis",
       subtitle:
-        "Streamline your tasks, boost your productivity, and accomplish more every day. Unlock a world of possibilities with our cutting-edge mobile application.",
+        "Sleep better, reduce stress, lower anxiety, and refocus your mind. Discover a rich collection of sleep stories, guided meditations, breathing exercises, and more.",
       screenshots: [
         "/screenshots/1.webp",
         "/screenshots/2.webp",
