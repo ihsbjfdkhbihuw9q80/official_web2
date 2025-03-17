@@ -96,7 +96,7 @@ const templateConfig: TemplateConfig = {
       ],
     },
     partners: {
-      title: "As seen on",
+      title: "Why Oasis?",
       logos: [
         "/misc/companies/apple.svg",
         "/misc/companies/aws.svg",
@@ -144,7 +144,7 @@ const templateConfig: TemplateConfig = {
     },
     features: {
       id: "features",
-      title: "Transform Your Daily Routine",
+      title: "Transform Your Sleep & Daily Routine",
       subtitle:
         "Elevate your lifestyle with our innovative mobile app, designed for seamless living",
       cards: [
