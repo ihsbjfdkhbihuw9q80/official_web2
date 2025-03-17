@@ -51,7 +51,7 @@ const templateConfig: TemplateConfig = {
     id: "app-banner",
     title: "Download Our Mobile App Today!",
     subtitle:
-      "Unlock the full potential of our services with seamless access at your fingertips. Stay connected, informed, and in control wherever you are.",
+      "Let a good story lull you to sleep. Handpicked tales and expert narration create a soothing sleep experience that eases stress and invites dreams. Listen and rest well.",
     screenshots: [
       "/screenshots/1.webp",
       "/screenshots/2.webp",
