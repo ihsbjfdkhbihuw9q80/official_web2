@@ -179,29 +179,29 @@ const templateConfig: TemplateConfig = {
       title: "Frequently Asked Questions",
       qa: [
         {
-          question: "How can I create an account on your website?",
+          question: "How do I start using Oasis to improve my sleep?",
           answer:
-            "To create an account, click on the 'Sign Up' button located at the top right corner of our homepage. Fill in the required information, including your name, email address, and password. Once you submit the form, you will receive a confirmation email. Click the link in the email to verify your account, and you're all set!",
+            "Just download the app and dive right into our library of sleep stories, meditations, and relaxation sounds—no account needed! Simply pick a session that fits your mood (like calming anxiety or drifting off after a long day) and let the soothing audio guide you.",
         },
         {
-          question: "What payment methods do you accept?",
+          question: "Is Oasis free, or do I need a subscription?",
           answer:
-            "We accept a variety of payment methods to ensure convenience for our customers. These include major credit cards (Visa, MasterCard, American Express), PayPal, Apple Pay, and Google Pay. For more details, visit our Payments page.",
+            "Yes, our free content is incredibly rich! You’ll find hundreds of sleep stories, meditations, and calming soundscapes available at no cost. If you’d like to unlock advanced features and access even more premium content, you can opt for a premium subscription.",
         },
         {
-          question: "How can I track my order?",
+          question: "Can I use Oasis without an internet connection?",
           answer:
-            "Once your order is shipped, you will receive an email with a tracking number. You can use this tracking number on our website under the 'Track Order' section to see the current status and estimated delivery date of your package.",
+            "We believe \"great sound deserves to be heard in its full glory\"—which is why every audio is crafted in studio-quality detail. To preserve this immersive experience without burdening your device storage, all content is streamed online. Think of it as a concert hall-level performance, delivered straight to your ears.",
         },
         {
-          question: "What is your return policy?",
+          question: "How does Oasis protect my privacy and data?",
           answer:
-            "We offer a 30-day return policy for unused and unopened items. If you are not satisfied with your purchase, please contact our customer support team to initiate a return. Refunds will be processed within 7-10 business days after we receive the returned item.",
+            "Your privacy is sacred to us. All your data (like sleep session history) stays securely on your device—never uploaded to the cloud. Even if our servers were compromised, your information remains untouched. Plus, since no account is required, there’s zero risk of personal data leaks. Rest assured, we’ve built security into every step.",
         },
         {
-          question: "How can I contact customer support?",
+          question: "What if I have technical issues or feedback?",
           answer:
-            "You can contact our customer support team through the 'Contact Us' page on our website. We are available via email, phone, and live chat. Our support hours are Monday to Friday, 9 AM to 5 PM.",
+            "Contact our support team anytime via email at feedback@dcocb.com. We typically respond within 24 hours.",
         },
       ],
     },
