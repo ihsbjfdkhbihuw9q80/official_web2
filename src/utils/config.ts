@@ -106,38 +106,38 @@ const templateConfig: TemplateConfig = {
     },
     howItWorks: {
       id: "how-it-works",
-      title: "How it works",
+      title: "How It Works",
       subtitle:
         "Explore our comprehensive step-by-step guide to understand how our process ensures seamless and effective results",
       steps: [
         {
-          title: "Install the App",
+          title: "Choose Your Journey",
           subtitle:
-            "Download and install the app on your device to get started quickly and easily.",
+            "Select sleep stories, meditations, or relaxation sounds.",
           image: "/stock/01.webp",
         },
         {
-          title: "Create an Account",
+          title: "Set Your Timer",
           subtitle:
-            "Sign up by entering your personal details and verifying your email to create a new account in just a few minutes.",
+            "Drift off effortlessly with auto-shutoff.",
           image: "/stock/02.webp",
         },
         {
-          title: "Set Up Your Profile",
+          title: "Breathe & Unwind",
           subtitle:
-            "Complete your profile by adding necessary information and preferences to personalize your experience on the platform.",
+            "Follow expert-guided sessions.",
           image: "/stock/03.webp",
         },
         {
-          title: "Explore Features",
+          title: "Track Progress",
           subtitle:
-            "Navigate through the app to discover various features and tools designed to enhance your productivity and engagement.",
+            "Monitor sleep quality and mindfulness streaks.",
           image: "/stock/04.webp",
         },
         {
-          title: "Connect with Others",
+          title: "Wake Refreshed",
           subtitle:
-            "Start connecting with friends, colleagues, and like-minded individuals to expand your network and collaborate efficiently.",
+            "Start your day with renewed energy.",
           image: "/stock/05.webp",
         },
       ],
