@@ -14,7 +14,7 @@ const templateConfig: TemplateConfig = {
   forceTheme: false,
   // Shows switch to toggle between dark and light modes
   showThemeSwitch: true,
-  appStoreLink: "https://apps.apple.com/us/app/google/id284815942",
+  appStoreLink: "https://apps.apple.com/us/app/oasis-sleep-well/id6476300242",
   googlePlayLink:
     "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
   footer: {
@@ -71,27 +71,27 @@ const templateConfig: TemplateConfig = {
         {
           name: "Alice Johnson",
           comment:
-            "The service was fantastic! Highly recommended. The team was very professional and attentive to our needs. They went above and beyond to ensure we were satisfied with the results. I will definitely be using their services again in the future.",
+            "Oasis helps me relieve stress and anxiety, breaks my irregular sleep patterns, and helps me fall into deep sleep. I usually fall asleep within 5 minutes.",
         },
         {
           name: "Bob Smith",
           comment:
-            "Great value for the price. Very satisfied with the overall experience. The product quality is top-notch and the customer service is excellent. I appreciate the prompt responses to my inquiries and the helpful advice provided. Highly recommend.",
+            "When I can't sleep, I open this app and fall asleep within 5 minutes.",
         },
         {
           name: "Charlie Brown",
           comment:
-            "An excellent experience from start to finish. The onboarding process was smooth and the support team was very responsive. I felt valued as a customer and the results exceeded my expectations. I am impressed with the level of detail and care put into their work.",
+            "Whenever I need to relax from the stress of work, I meditate with Oasis' soundscapes, which automatically take me to a place that makes me feel happy.",
         },
         {
           name: "Dana White",
           comment:
-            "Superb customer service and high-quality products. The team demonstrated great expertise and patience throughout the project. They addressed all my concerns and provided valuable insights. The end product was delivered on time and surpassed my expectations.",
+            "Medication didn't work for me, so I decided to try Oasis. Now, I start and end my day with guided meditation.",
         },
         {
           name: "Eve Adams",
           comment:
-            "I couldn't be happier with the results! The attention to detail and the level of customization provided was outstanding. The team was friendly and professional, making the entire process enjoyable. I highly recommend their services to anyone looking for top-quality work.",
+            "My brain is always so busy, and it's hard to relax. Now, practicing every day is truly wonderful and healing for me.",
         },
       ],
     },
