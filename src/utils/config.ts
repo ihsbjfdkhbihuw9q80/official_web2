@@ -146,30 +146,30 @@ const templateConfig: TemplateConfig = {
       id: "features",
       title: "Transform Your Sleep & Daily Routine",
       subtitle:
-        "Elevate your lifestyle with our innovative mobile app, designed for seamless living",
+        "Immerse yourself in a world of deep relaxation and restorative sleep, crafted by sleep scientists and storytellers.",
       cards: [
         {
-          title: "Seamless Integration",
+          title: "Sleep Anywhere, Anytime",
           subtitle:
-            "Connect effortlessly with all your devices, ensuring smooth and efficient workflows across different platforms and applications without any disruptions",
+            "Stream studio-quality sleep stories and meditations instantly—no downloads, no account required. Compatible with smart speakers, wearables, and bedtime routines.",
           icon: "/3D/link-front-color.webp",
         },
         {
-          title: "24/7 Customer Support",
+          title: "Sleep Guardians On Call",
           subtitle:
-            "Get assistance whenever you need it with our dedicated customer support team, available around the clock to help resolve any issues you may encounter",
+            "Struggling to unwind? Email us at feedback@dcocb.com. We’ll reply within 24 hours—because good sleep can’t wait.",
           icon: "/3D/clock-front-color.webp",
         },
         {
-          title: "Intuitive Design",
+          title: "Effortless Relaxation",
           subtitle:
-            "Navigate through our intuitive and easy-to-use interface designed to enhance user experience, making it accessible for users of all skill levels",
+            "Our minimalist interface lets you find peace in seconds: swipe to choose stories, tap to set sleep timers, breathe with guided visuals.",
           icon: "/3D/roll-brush-front-color.webp",
         },
         {
-          title: "Top-Notch Security",
+          title: "Privacy by Design",
           subtitle:
-            "Protect your data with our top-notch security protocols, offering robust encryption and real-time monitoring to keep your information safe and secure",
+            "Your sleep data never leaves your device. No accounts, no cloud storage, military-grade local encryption—so you can rest without worries.",
           icon: "/3D/sheild-front-color.webp",
         },
       ],
