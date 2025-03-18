@@ -31,7 +31,6 @@ const templateConfig: TemplateConfig = {
     links: [
       { href: "/#features", title: "Features" },
       { href: "/#how-it-works", title: "How it works" },
-      { href: "/#pricing", title: "Pricing" },
       { href: "/#faq", title: "FAQ" },
     ],
   },
@@ -43,7 +42,6 @@ const templateConfig: TemplateConfig = {
     links: [
       { href: "/#features", title: "Features" },
       { href: "/#how-it-works", title: "How it works" },
-      { href: "/#pricing", title: "Pricing" },
       { href: "/#faq", title: "FAQ" },
     ],
   },
@@ -217,41 +215,6 @@ const templateConfig: TemplateConfig = {
       rewards: ["App of the year \n 1st", "Product of the day"],
       usersDescription: "100+ people already using the app",
       headlineMark: [1, 3],
-    },
-    pricing: {
-      id: "pricing",
-      title: "Pricing",
-      subtitle: "Flexible costs to meet your budget",
-      actionText: "Download the app",
-      plans: [
-        {
-          title: "Basic Plan",
-          price: "$9.99/month",
-          rows: ["Access to basic features", "Email support", "1 GB storage"],
-        },
-        {
-          title: "Standard Plan",
-          price: "$19.99/month",
-          featured: true,
-          rows: [
-            "Access to all basic features",
-            "Priority email support",
-            "10 GB storage",
-            "Monthly webinars",
-          ],
-        },
-        {
-          title: "Premium Plan",
-          price: "$29.99/month",
-          rows: [
-            "Access to all features",
-            "24/7 support",
-            "100 GB storage",
-            "Weekly webinars",
-            "Exclusive content",
-          ],
-        },
-      ],
     },
   },
   privacyPolicy: {
