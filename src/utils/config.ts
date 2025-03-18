@@ -213,7 +213,7 @@ const templateConfig: TemplateConfig = {
         "/screenshots/3.webp",
       ],
       rewards: ["App of the year \n 1st", "Product of the day"],
-      usersDescription: "100+ people already using the app",
+      usersDescription: "People are loving the app—try it today!",
       headlineMark: [1, 3],
     },
   },
