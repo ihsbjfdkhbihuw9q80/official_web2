@@ -47,7 +47,7 @@ const templateConfig: TemplateConfig = {
   },
   appBanner: {
     id: "app-banner",
-    title: "Download Our Mobile App Today!",
+    title: "Download the App Now !",
     subtitle:
       "Let a good story lull you to sleep. Handpicked tales and expert narration create a soothing sleep experience that eases stress and invites dreams. Listen and rest well.",
     screenshots: [
