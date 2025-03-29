@@ -28,11 +28,6 @@ const templateConfig: TemplateConfig = {
       facebook: "https://facebook.com/google",
       twitter: "https://x.com/google",
     },
-    links: [
-      { href: "/#features", title: "Features" },
-      { href: "/#how-it-works", title: "How it works" },
-      { href: "/#faq", title: "FAQ" },
-    ],
   },
   topNavbar: {
     cta: "Get the app",
