@@ -28,6 +28,7 @@ const templateConfig: TemplateConfig = {
       facebook: "https://facebook.com/google",
       twitter: "https://x.com/google",
     },
+    links: [], 
   },
   topNavbar: {
     cta: "Get the app",
