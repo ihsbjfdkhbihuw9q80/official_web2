@@ -8,7 +8,7 @@ const templateConfig: TemplateConfig = {
   },
   // Draws grid behind main container
   backgroundGrid: false,
-  logo: "/logo150.png",
+  logo: "/logo.svg",
   theme: "corporate",
   // Forces theme to be chosen above, no matter what user prefers
   forceTheme: false,
