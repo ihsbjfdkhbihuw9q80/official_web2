@@ -1,7 +1,7 @@
 import type { TemplateConfig } from "./configType";
 
 const templateConfig: TemplateConfig = {
-  name: "Oasis",
+  name: "Oasis0",
   seo: {
     title: "Mobile App Landing Template",
     description: "Mobile App Landing Template",
