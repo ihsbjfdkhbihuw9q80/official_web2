@@ -53,6 +53,7 @@ export type TemplateConfig = {
         disableWidthAnimation?: boolean | undefined;
         links: {
             title: string;
+            title2: string;
             href: string;
         }[];
         hideGooglePlay?: boolean | undefined;
