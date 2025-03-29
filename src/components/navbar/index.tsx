@@ -71,7 +71,7 @@ function Navbar() {
             {topNavbar.links.map(({ title, href }, index) => (
               <li key={index}>
                 <a
-                  className="text-sm whitespace-nowrap link link-hover font-[Roboto_SemiCondensed]"
+                  className="text-sm whitespace-nowrap link link-hover"
                   href={href}
                 >
                   {title}
