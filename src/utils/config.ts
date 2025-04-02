@@ -220,11 +220,11 @@ const templateConfig: TemplateConfig = {
     },
     content: `# Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** [2025-04-03]
 
 ## Introduction
 
-Welcome to [Your App Name] (the "App"). [Your Company Name] ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information when you use our App.
+Welcome to [Oasis] (the "App"). [ZhiYuan Yu] ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information when you use our App.
 
 ## Information We Collect
 
@@ -272,10 +272,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-[Your Company Name]  
-[Your Contact Information]  
-[Email Address]  
-[Phone Number (optional)]
+
+[feedback@dcocb.com]  
 
 `,
   },
@@ -286,7 +284,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
     },
     content: `# Cookies Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** [2025-04-03]
 
 ## Introduction
 
@@ -345,10 +343,10 @@ We may update this Cookies Policy from time to time. We will notify you of any c
 
 If you have any questions or concerns about our use of cookies, please contact us at:
 
-[Your Company Name]  
-[Your Contact Information]  
-[Email Address]  
-[Phone Number (optional)]
+
+
+[feedback@dcocb.com]  
+
 `,
   },
   termsAndConditions: {
@@ -358,7 +356,7 @@ If you have any questions or concerns about our use of cookies, please contact u
     },
     content: `# Terms and Conditions
 
-**Effective Date:** [Insert Date]
+**Effective Date:** [2025-04-03]
 
 ## Introduction
 
@@ -422,10 +420,9 @@ We may update these Terms from time to time. We will notify you of any changes b
 
 If you have any questions or concerns about these Terms, please contact us at:
 
-[Your Company Name]  
-[Your Contact Information]  
-[Email Address]  
-[Phone Number (optional)]
+
+[feedback@dcocb.com]  
+
 `,
   },
 };
