@@ -288,7 +288,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 ## Introduction
 
-This Cookies Policy explains how [Your Company Name] ("we," "our," or "us") uses cookies and similar technologies to recognize you when you visit our app, [Your App Name] (the "App"). It explains what these technologies are and why we use them, as well as your rights to control their use.
+This Cookies Policy explains how [ZhiYuan Yu] ("we," "our," or "us") uses cookies and similar technologies to recognize you when you visit our app, [Oasis] (the "App"). It explains what these technologies are and why we use them, as well as your rights to control their use.
 
 ## What Are Cookies?
 
@@ -360,7 +360,7 @@ If you have any questions or concerns about our use of cookies, please contact u
 
 ## Introduction
 
-Welcome to [Your App Name] (the "App"). These Terms and Conditions ("Terms") govern your use of the App provided by [Your Company Name] ("we," "our," or "us"). By accessing or using our App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
+Welcome to [Oasis] (the "App"). These Terms and Conditions ("Terms") govern your use of the App provided by [ZhiYuan Yu] ("we," "our," or "us"). By accessing or using our App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
 
 ## Use of the App
 
@@ -382,7 +382,7 @@ You agree not to:
 ## Intellectual Property
 
 ### 1. Ownership
-All content and materials available on the App, including but not limited to text, graphics, logos, and software, are the property of [Your Company Name] or its licensors and are protected by intellectual property laws.
+All content and materials available on the App, including but not limited to text, graphics, logos, and software, are the property of [ZhiYuan Yu] or its licensors and are protected by intellectual property laws.
 
 ### 2. License
 We grant you a limited, non-exclusive, non-transferable license to access and use the App for your personal, non-commercial use. This license is subject to your compliance with these Terms.
@@ -398,7 +398,7 @@ You may not:
 The App is provided on an "as is" and "as available" basis. We make no warranties or representations about the accuracy or completeness of the content available on or through the App. We disclaim all warranties, whether express or implied, including any warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
 ### 2. Limitation of Liability
-To the fullest extent permitted by law, [Your Company Name] shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
+To the fullest extent permitted by law, [ZhiYuan Yu] shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
 - Your use or inability to use the App;
 - Any unauthorized access to or use of our servers and/or any personal information stored therein;
 - Any bugs, viruses, or other harmful code that may be transmitted to or through the App;
@@ -406,7 +406,7 @@ To the fullest extent permitted by law, [Your Company Name] shall not be liable 
 
 ## Indemnification
 
-You agree to indemnify, defend, and hold harmless [Your Company Name], its affiliates, and their respective officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses, including without limitation reasonable legal and accounting fees, arising out of or in any way connected with your access to or use of the App or your violation of these Terms.
+You agree to indemnify, defend, and hold harmless [ZhiYuan Yu], its affiliates, and their respective officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses, including without limitation reasonable legal and accounting fees, arising out of or in any way connected with your access to or use of the App or your violation of these Terms.
 
 ## Governing Law
 
